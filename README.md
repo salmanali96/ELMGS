@@ -1,5 +1,5 @@
 
-# [WACV 2025] ELMGS: Enhancing memory and computation scaLability through coMpression for 3D Gaussian Splatting![Uploading image.png…]()
+# [WACV 2025] ELMGS: Enhancing memory and computation scaLability through coMpression for 3D Gaussian Splatting
 
 
 

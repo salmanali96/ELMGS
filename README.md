@@ -1,5 +1,6 @@
 
-# ELMGS
+# [WACV 2025] ELMGS: Enhancing memory and computation scaLability through coMpression for 3D Gaussian Splatting![Uploading image.png…]()
+
 
 
 This code is build upon the official implementation of the paper "3D Gaussian Splatting for Real-Time Radiance Field Rendering". To set up the code, please refer to the original repository
